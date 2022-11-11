@@ -5,14 +5,25 @@ Minha personalidade é mais reservada, acredito que por isso, fui me encontrando
 
 <a href="https://github.com/alimakreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alimakreis&show_icons=true&theme=darka&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimakreis&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimakreis&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+## Codar é um modo de pensar
 <div style="display: inline_block"><br>
  <img align="center" alt="Kamis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Kamis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Kamis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Kamis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+## Redes sociais
+<div>
+  <a href = "mailto: work.kfr1725@gmail.com">
+    <img width="30" src="gmail.svg">
+  </a>
+  <a href = "https://www.linkedin.com/in/kamila-freis/">
+    <img width="25" src="linkedin.svg">
+     </a>
 </div>
                    
 ##
