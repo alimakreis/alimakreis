@@ -16,15 +16,6 @@ Minha personalidade é mais reservada, acredito que por isso, fui me encontrando
  <img align="center" alt="Kamis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Redes sociais
-<div>
-  <a href = "mailto: work.kfr1725@gmail.com">
-    <img width="30" src="gmail.svg">
-  </a>
-  <a href = "https://www.linkedin.com/in/kamila-freis/">
-    <img width="25" src="linkedin.svg">
-     </a>
-</div>
-                   
+
 ##
 ![snake gif](https://github.com/alimakreis/alimakreis/blob/output/github-contribution-grid-snake.svg) 
