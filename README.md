@@ -17,6 +17,4 @@ O meu perfil não é de uma pessoa super comunicativa, acredito que por isso, fu
 </div>
                    
 ##
-<div>
-   ![Snake animation](https://github.com/alimakreis/alimakreis/blob/output/github-contribution-grid-snake.svg)
-</div>  
+![snake gif](https://github.com/alimakreis/alimakreis/blob/output/github-contribution-grid-snake.svg) 
